@@ -1,16 +1,20 @@
-## Hi there 👋
+# Tere! Mina olen Johanna Mihkelson.
+ 
+## Andmeanalüütiku Karjääri Algus
 
-<!--
-**johannamihkelson/johannamihkelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
+ 
+## Tehnoloogiad, mida õpin
 
-Here are some ideas to get you started:
+- **Andmebaasid:** PostgreSQL, Supabase
+- **Programmeerimiskeeled:** Python (pandas, plotly)
+- **Visualiseerimine:** Power BI, Streamlit
+- **Versioonihaldus:** Git, GitHub
+ 
+## Projektid
+ 
+- [**DACA Portfoolio**](https://github.com/johannamihkelson/daca-portfolio) - 11-nädalane õppeprojekt
+ 
+## Kontakt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** johanna.mihkelson@gmail.com
